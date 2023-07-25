@@ -1,0 +1,7 @@
+Greater
+Legendary
+Lesser
+Major
+Mass
+Minor
+Superior
