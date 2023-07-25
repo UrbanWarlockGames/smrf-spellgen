@@ -1,7 +1,7 @@
 # Spoiled Meat, Rotten Flesh Spell Generator
 Chaos Magic spell generator for  the biopunk fantasy tabletop role-playing game "Spoiled Meat, Rotten Flesh". Made using Python.
 
-Containing 417 unique words with over 24,085 unique combinations and seven degrees of magnitude (for noun and verb combos) adding up to 42,504 unique names. But that's not all! When you add everything together there is a total of 66,589 combinations of words to come up with your own spell name!
+Containing 417 unique words with over 24,085 unique combinations and seven degrees of magnitude (for noun and verb combos) adding up to 42,504 unique names. But that's not all! When you add everything together there is a total of 66,589 word combinations to create your own spell name!
 
 The word combinations are weighted to ensure quality and reduce randomness/spell name incompatibilities while maintaining the "chaotic" nature of chaos magic.
 
