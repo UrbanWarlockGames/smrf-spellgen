@@ -12,6 +12,11 @@ Run smrfspellen.exe to generate a spell name. No outside files required. You can
 ## Python
 Run "spellgen44.py" to generate a spell name. Requires all the .txt files included in the source code to be in the root directory to function.
 
+# About the project
+Learn more about the Spoiled Meat, Rotten Flesh tabletop rpg project and follow development over at https://spoiledmeat.fandom.com/wiki/Spoiled_Meat,_Rotten_Flesh_Wiki
+
+It is still in very early (pre-alpha) development so expect updates to steadily roll out over the course of 2023 and onwards!
+
 # License
 So long as you do not use the name of likeness of "Spoiled Meat, Rotten Flesh", this program can be used or adapted for any project you desire, just be sure to credit the creator, Lucia Chaisson.
 
