@@ -1,0 +1,32 @@
+50%
+magnitude + verb + targets, 5%
+verb + targets, 50%
+adverbs + targets, 45%
+
+25%
+element + blasttype, 100%
+
+25%
+adverbs + nouns, 100%
+
+
+v=69
+mg=7
+el=35
+tg=88
+adj=48
+nouns=35
+adv=103
+bt=32
+
+7(69*88)	42504
+69*88		6072
+103*88		9064
+48*88		4224
+
+35*32		1120
+103*35		3605
+
+
+
+Containing 417 unique words with over 24,085 unique combinations and seven degrees of magnitude (for noun and verb combos) adding up to 42,504 unique names. But that's not all! When you add everything together there is a total of 66,589 weighted combinations of words to come up with your own spell name!

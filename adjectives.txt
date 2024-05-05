@@ -1,5 +1,7 @@
 Absolute
 Acid
+Air
+Arcane
 Armoured
 Big
 Blight
@@ -20,12 +22,14 @@ Fatal
 Fire
 Flame
 Flesh
+Foam
 Frost
 Ghost
 Golden
 Horrible
 Ice
 Internal
+Invisible
 Iron
 Jade
 Light
@@ -33,11 +37,13 @@ Magic
 Mighty
 Mind
 Mirror
+Molten
 Monster
 Necrotic
 Painful
 Quick
 Shadow
+Silent
 Silver
 Snow
 Spectral

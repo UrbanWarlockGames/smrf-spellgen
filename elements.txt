@@ -1,25 +1,40 @@
 Acid
+Ash
 Blood
 Chaos
 Dark
+Disease
 Dust
+Earth
 Explosive
 Fire
 Flesh
-Ghost
+Frost
+Glass
+Grease
 Ice
-Iron
 Lava
-Molten
+Lightning
+Mist
+Negative Energy
 Oil
 Poison
+Positive Energy
+Psychic Energy
+Salt
 Sand
+Sickness
 Silver
 Slime
-Steel
+Smoke
+Sound
+Steam
 Stone
-Thorn
+Sulphur
+Thorns
+Thunder
 Toxic
+Void
+Water
 Wind
 Wine
-Wood

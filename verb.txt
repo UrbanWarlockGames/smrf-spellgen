@@ -1,14 +1,13 @@
 Abolish
 Absorb
 Aid
-Align
 Animate
 Anticipate
 Avoid
 Awaken
 Bestow
+Bind
 Bless
-Bound
 Burrow
 Call
 Cause
@@ -17,7 +16,6 @@ Compel
 Conjure
 Consume
 Counter
-Crack
 Create
 Cure
 Curse
@@ -26,6 +24,7 @@ Detect
 Devour
 Disguise
 Dispel
+Displace
 Disrupt
 Distract
 Dominate
@@ -36,6 +35,7 @@ Find
 Force
 Fortify
 Harm
+Hear
 Hide
 Hunt
 Identify
@@ -45,10 +45,14 @@ Launch
 Leech
 Locate
 Manifest
+Move
 Paralyse
 Possess
+Protect
+Protection from
 Read
 Reduce
+Reflect
 Regenerate
 Remove
 Repair
@@ -59,10 +63,14 @@ Reverse
 Rip
 Scramble
 Seal
+See
 Sense
 Sever
 Share
 Shatter
+Shield
+Shield of
+Speak to
 Spread
 Stop
 Summon
